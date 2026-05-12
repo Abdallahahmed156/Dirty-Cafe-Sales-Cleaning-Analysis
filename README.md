@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/8e0575d1-2bdf-4fdf-8042-2473d73389dc
+
 #  Dirty Cafe Sales: Data Cleaning & Analysis Pipeline
 
 ## Project Overview
